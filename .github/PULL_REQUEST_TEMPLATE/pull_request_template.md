@@ -19,4 +19,8 @@ Forneça passos para testar as alterações feitas neste pull request.
 **Capturas de Tela:**
 Se aplicável, adicione capturas de tela para mostrar as alterações.
 
+<<<<<<< HEAD
 ** Coloque suas observações**
+=======
+**Observações Adicionais**
+>>>>>>> eb7af4f452091e82c26b41b99ce902a035ed369b
