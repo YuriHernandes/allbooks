@@ -19,4 +19,4 @@ Forneça passos para testar as alterações feitas neste pull request.
 **Capturas de Tela:**
 Se aplicável, adicione capturas de tela para mostrar as alterações.
 
-**Observações Adicionaid**
+**Observações Adicionais**
